@@ -1,0 +1,13 @@
+C:\Users\itcdnet14\source\repos\Linqeg\bin\Debug\Linqeg.exe.config
+C:\Users\itcdnet14\source\repos\Linqeg\bin\Debug\Linqeg.exe
+C:\Users\itcdnet14\source\repos\Linqeg\bin\Debug\Linqeg.pdb
+C:\Users\itcdnet14\source\repos\Linqeg\bin\Debug\EntityFramework.dll
+C:\Users\itcdnet14\source\repos\Linqeg\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\itcdnet14\source\repos\Linqeg\bin\Debug\EntityFramework.xml
+C:\Users\itcdnet14\source\repos\Linqeg\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\itcdnet14\source\repos\Linqeg\obj\Debug\Linqeg.csproj.AssemblyReference.cache
+C:\Users\itcdnet14\source\repos\Linqeg\obj\Debug\Linqeg.csproj.SuggestedBindingRedirects.cache
+C:\Users\itcdnet14\source\repos\Linqeg\obj\Debug\Linqeg.csproj.CoreCompileInputs.cache
+C:\Users\itcdnet14\source\repos\Linqeg\obj\Debug\Linqeg.csproj.CopyComplete
+C:\Users\itcdnet14\source\repos\Linqeg\obj\Debug\Linqeg.exe
+C:\Users\itcdnet14\source\repos\Linqeg\obj\Debug\Linqeg.pdb

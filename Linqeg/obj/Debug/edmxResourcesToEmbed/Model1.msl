@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="frameworkModelStoreContainer" CdmEntityContainer="frameworkEntities1">
+    <EntitySetMapping Name="Employees">
+      <EntityTypeMapping TypeName="frameworkModel.Employee">
+        <MappingFragment StoreEntitySet="Employee">
+          <ScalarProperty Name="empname" ColumnName="empname" />
+          <ScalarProperty Name="empid" ColumnName="empid" />
+          <ScalarProperty Name="salary" ColumnName="salary" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
